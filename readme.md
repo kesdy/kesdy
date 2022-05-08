@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋🏻, I'm Akicaqw</h1>
  <h3 align="center">I'm a Developer!</h3>
  
----------------------------------------------------------------------------
+ 
 
 - 💻 I’m currently learning about **Discord V13**
 - 📧 How can I reach me? **Connect to me via our Discord Server [akicaqw](discord:https://discord.gg/TwVhFnVJ6u)*
