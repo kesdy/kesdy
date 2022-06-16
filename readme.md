@@ -1,10 +1,10 @@
- <h1 align="center">Hi 👋🏻, I'm Betawiless </h1>
+ <h1 align="center">Hi 👋🏻, I'm Akicqw </h1>
  <h3 align="center">I'm a Developer!</h3>
  
  
 
 - 💻 I’m currently learning about **Discord V13**
-- 📧 How can I reach me? **Connect to me via our Discord Server [betawiless](https://discord.gg/GEGegCPa8a)*
+- 📧 How can I reach me? **Connect to me via our Discord Server [akicqw](https://discord.gg/GEGegCPa8a)*
 - ⚡ Fun Fact: **I love helping people**
 
 <h3 align="left">Languages:</h3>
