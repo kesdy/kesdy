@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋🏻, I'm Akicqw </h1>
+ <h1 align="center">Hi 👋🏻, I'm AkicaJS </h1>
  <h3 align="center">I'm a Developer!</h3>
  
  
@@ -12,7 +12,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.instagram.com/betawiless/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" alt="İnstagram" height="30" width="40" /> </a>
+<a href="https://www.instagram.com/akicsqw/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" alt="İnstagram" height="30" width="40" /> </a>
 </p>
 
 
