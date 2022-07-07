@@ -17,7 +17,7 @@
 
 <div align="center">
    <a href="https://discord.com/users/988757392793698314" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/298888568279924746?bg=111111">
+      <img src="https://lanyard.cnrad.dev/api/988757392793698314?bg=111111">
    </a>
 </div>
 
