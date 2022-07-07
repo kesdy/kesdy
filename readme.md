@@ -15,4 +15,9 @@
 <a href="https://www.instagram.com/akicsqw/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" alt="İnstagram" height="30" width="40" /> </a>
 </p>
 
+<div align="center">
+   <a href="https://discord.com/users/298888568279924746" target="_blank">
+      <img src="https://lanyard.cnrad.dev/api/298888568279924746?bg=111111">
+   </a>
+</div>
 
