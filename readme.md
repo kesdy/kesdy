@@ -4,7 +4,7 @@
  
 
 - 💻 I’m currently learning about **Discord V13**
-- 📧 How can I reach me? **Connect to me via our Discord Server [akicqw](https://discord.gg/GEGegCPa8a)*
+- 📧 How can I reach me? **Connect to me via our Discord Server [akicqw](https://discord.gg/jQpzVkqveK)*
 - ⚡ Fun Fact: **I love helping people**
 
 <p align="center">
