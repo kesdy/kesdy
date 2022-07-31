@@ -1,10 +1,10 @@
- <h1 align="center">Hi 👋🏻, I'm AkicaJS </h1>
+ <h1 align="center">Hi 👋🏻, I'm Voletion! </h1>
  <h3 align="center">I'm a Developer!</h3>
  
  
 
-- 💻 I’m currently learning about **Discord V13**
-- 📧 How can I reach me? **Connect to me via our Discord Server [akicqw](https://discord.gg/jQpzVkqveK)*
+- 💻 I’m currently learning about **Discord V14**
+- 📧 How can I reach me? **Connect to me via our Discord Server [voletion](https://discord.gg/eZ3hFyyey9)*
 - ⚡ Fun Fact: **I love helping people**
 
 <p align="center">
